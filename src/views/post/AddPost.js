@@ -194,6 +194,7 @@ const AddPost = ({ className, ...rest }) => {
                   )}
                 </CardContent>
                 </Card>
+                
                 </Grid>
           </Grid>
           {errors.submit && (
